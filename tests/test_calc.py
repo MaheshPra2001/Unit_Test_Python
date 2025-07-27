@@ -1,3 +1,5 @@
+import sys
+sys.path.append("/mnt/c/Users/mahes/Unittest")
 from calculator import add, sub, mul
 
 def test_add():
